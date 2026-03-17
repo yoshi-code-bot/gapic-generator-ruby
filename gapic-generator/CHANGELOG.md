@@ -1,5 +1,9 @@
 # Release History for gapic-generator
 
+### 0.48.1 / 2026-03-17
+
+* Fix: Add irb to dependencies
+
 ### 0.48.0 / 2026-03-13
 
 * Fix: add per-service apiVersion to gapic_metadata
